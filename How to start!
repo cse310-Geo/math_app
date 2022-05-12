@@ -1,0 +1,8 @@
+https://code.visualstudio.com/docs/python/tutorial-django
+
+Open math app folder in vs code
+Open terminal
+
+python manage.py migrate
+
+python manage.py runserver
