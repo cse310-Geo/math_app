@@ -2,15 +2,15 @@
 
 # Overview
 
-This software is a team effort. We are a group of software engineers who want to create a geometry tutorial website for secondary school students. 
+This software is a team effort. We are a group of software engineers who want to create a geometry tutorial website for secondary school students.
 
 Our Team:
-Connor Baltich
-David Balladares
-Josifini Tamanalevu
-Brandon McFadden
-Julie Antezana
 
+- Connor Baltich
+- David Balladares
+- Josifini Tamanalevu
+- Brandon McFadden
+- Julie Antezana
 
 The web app has tutorial lessons about geometry topics. Each lesson has a quiz to help the student practice what they have learned and measure their success. Students can earn points and rewards as they progress through the lessons.
 
@@ -40,6 +40,7 @@ The programming language that we was Python. The libraries used: (to be determin
 
 Websites that we found helpful in this project:
 (to be added at a later date)
+
 - [Web Site Name](http://url.link.goes.here)
 - [Web Site Name](http://url.link.goes.here)
 
