@@ -14,7 +14,15 @@ Our Team:
 
 The web app has tutorial lessons about geometry topics. Each lesson has a quiz to help the student practice what they have learned and measure their success. Students can earn points and rewards as they progress through the lessons.
 
-How to start a test server on your computer: (to be added at a later date)
+How to start a test server on your computer:
+Click on the link:
+
+https://code.visualstudio.com/docs/python/tutorial-django
+
+1. Open the math app folder in vs code
+2. Open terminal
+3. python manage.py migrate
+4. python manage.py runserver
 
 What website to open up to see the first page of the app: (to be determined at a later date)
 
